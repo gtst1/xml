@@ -1,6 +1,6 @@
 <Module>
 <ModulePrefs title="Shell Shockers 🍳 Multiplayer io game"/>
 <Content type="html">
-<![CDATA[<title>Shell Shockers 🍳 Multiplayer io game</title><iframe src="https://deathegg.life" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">Your browser doesn't support iframes</iframe>]]>
+<![CDATA[<link rel="apple-touch-icon" sizes="128x128" href="https://cdn.jsdelivr.net/gh/gtst1/xml@9d644c8beb8630cbd34e6922c6a86661fda796b5/shellshock.ico"><link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/gtst1/xml@9d644c8beb8630cbd34e6922c6a86661fda796b5/shellshock.ico"><title>Shell Shockers 🍳 Multiplayer io game</title><iframe src="https://deathegg.life" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">Your browser doesn't support iframes</iframe>]]>
 </Content>
 </Module>
